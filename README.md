@@ -48,24 +48,24 @@ A Python project for detecting motion in video streams using Gaussian Mixture Mo
     
 ---
 
-##⚙️ Configuration
+## ⚙️ Configuration
 You can tweak the following parameters in the motion_detection.py script:
 
--history: Number of frames for background modeling (default: 500).
--varThreshold: Threshold for motion segmentation (default: 16).
--learningRate: Learning rate for background updates (default: 0.005).
+- history: Number of frames for background modeling (default: 500).
+- varThreshold: Threshold for motion segmentation (default: 16).
+- learningRate: Learning rate for background updates (default: 0.005).
 
 ---
 
 ## 📈 Future Enhancements
--Integrating additional tracking algorithms for object tracking.
--Adding support for video recording of detected motion events.
--Real-time notifications via email or SMS.
--Performance optimization for embedded systems (e.g., Raspberry Pi).
+- Integrating additional tracking algorithms for object tracking.
+- Adding support for video recording of detected motion events.
+- Real-time notifications via email or SMS.
+- Performance optimization for embedded systems (e.g., Raspberry Pi).
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 Feel free to fork this repository, open issues, or submit pull requests for enhancements.
 
