@@ -45,6 +45,8 @@ A Python project for detecting motion in video streams using Gaussian Mixture Mo
 
     ```bash
    python motion_detection.py
+    
+---
 
 ##⚙️ Configuration
 You can tweak the following parameters in the motion_detection.py script:
@@ -53,11 +55,15 @@ You can tweak the following parameters in the motion_detection.py script:
 -varThreshold: Threshold for motion segmentation (default: 16).
 -learningRate: Learning rate for background updates (default: 0.005).
 
+---
+
 ## 📈 Future Enhancements
 -Integrating additional tracking algorithms for object tracking.
 -Adding support for video recording of detected motion events.
 -Real-time notifications via email or SMS.
 -Performance optimization for embedded systems (e.g., Raspberry Pi).
+
+---
 
 ##🤝 Contributing
 Contributions are welcome!
