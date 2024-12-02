@@ -37,14 +37,14 @@ A Python project for detecting motion in video streams using Gaussian Mixture Mo
 1. Clone the repository:
 
     ```bash
-   git clone https://github.com/username/mog-motion-detection.git
-   cd mog-motion-detection
+   git clone https://github.com/Deadheaven/MOG.git
+   cd MOG
 2. Connect a webcam or ensure the availability of a video file.
 
 3. Run the script:
 
     ```bash
-   python motion_detection.py
+   python motion_detection_1.py
     
 ---
 
